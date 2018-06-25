@@ -1,0 +1,36 @@
+﻿<Window x:Class="HttpClientWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HttpClientWPF"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="600"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+
+        <TextBlock Name="jsonTB" Grid.Column="0" 
+                   TextWrapping="WrapWithOverflow"/>
+
+        <Border BorderBrush="Black" BorderThickness="2"/>
+
+        <Grid Grid.Column="1">
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+
+            <TextBlock Name="CountTB" FontSize="150" TextAlignment="Center"  
+                       Text="{Binding numCount, Mode=OneWay, UpdateSourceTrigger=PropertyChanged}"/>
+
+            <StackPanel Grid.Column="1" Grid.Row="1" Margin="13" >
+                <Button Height="90" FontSize="25" Content="Counter" Click="Button_Click"/>
+                <Button Height="90" FontSize="25" Content="Get JSON" Click="Button_Click_1"/>
+            </StackPanel>
+        </Grid>
+    </Grid>
+
+</Window>

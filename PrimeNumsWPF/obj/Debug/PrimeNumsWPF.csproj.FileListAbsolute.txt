@@ -1,0 +1,36 @@
+C:\Users\ishmyles\Desktop\AsyncTask-Week12\PrimeNumsWPF\bin\Debug\PrimeNumsWPF.exe.config
+C:\Users\ishmyles\Desktop\AsyncTask-Week12\PrimeNumsWPF\bin\Debug\PrimeNumsWPF.exe
+C:\Users\ishmyles\Desktop\AsyncTask-Week12\PrimeNumsWPF\bin\Debug\PrimeNumsWPF.pdb
+C:\Users\ishmyles\Desktop\AsyncTask-Week12\PrimeNumsWPF\obj\Debug\PrimeNumsWPF.csprojAssemblyReference.cache
+C:\Users\ishmyles\Desktop\AsyncTask-Week12\PrimeNumsWPF\obj\Debug\MainWindow.g.cs
+C:\Users\ishmyles\Desktop\AsyncTask-Week12\PrimeNumsWPF\obj\Debug\App.g.cs
+C:\Users\ishmyles\Desktop\AsyncTask-Week12\PrimeNumsWPF\obj\Debug\PrimeNumsWPF_MarkupCompile.cache
+C:\Users\ishmyles\Desktop\AsyncTask-Week12\PrimeNumsWPF\obj\Debug\PrimeNumsWPF_MarkupCompile.lref
+C:\Users\ishmyles\Desktop\AsyncTask-Week12\PrimeNumsWPF\obj\Debug\MainWindow.baml
+C:\Users\ishmyles\Desktop\AsyncTask-Week12\PrimeNumsWPF\obj\Debug\PrimeNumsWPF.g.resources
+C:\Users\ishmyles\Desktop\AsyncTask-Week12\PrimeNumsWPF\obj\Debug\PrimeNumsWPF.Properties.Resources.resources
+C:\Users\ishmyles\Desktop\AsyncTask-Week12\PrimeNumsWPF\obj\Debug\PrimeNumsWPF.csproj.GenerateResource.cache
+C:\Users\ishmyles\Desktop\AsyncTask-Week12\PrimeNumsWPF\obj\Debug\PrimeNumsWPF.csproj.CoreCompileInputs.cache
+C:\Users\ishmyles\Desktop\AsyncTask-Week12\PrimeNumsWPF\obj\Debug\PrimeNumsWPF.exe
+C:\Users\ishmyles\Desktop\AsyncTask-Week12\PrimeNumsWPF\obj\Debug\PrimeNumsWPF.pdb
+C:\Users\ishmyles\Desktop\AsyncTask-Week12\PrimeNumsWPF\bin\Debug\AsyncClassLibrary.dll
+C:\Users\ishmyles\Desktop\AsyncTask-Week12\PrimeNumsWPF\bin\Debug\AsyncClassLibrary.pdb
+C:\Users\ishmyles\Desktop\AsyncTask-Week12\PrimeNumsWPF\obj\Debug\PrimeNumsWPF.csproj.CopyComplete
+C:\Users\ishmyles\Documents\ICT50715 (Diploma)\Programming Cluster\Submittables\Week 12\AsyncTask-Week12\PrimeNumsWPF\bin\Debug\PrimeNumsWPF.exe.config
+C:\Users\ishmyles\Documents\ICT50715 (Diploma)\Programming Cluster\Submittables\Week 12\AsyncTask-Week12\PrimeNumsWPF\bin\Debug\PrimeNumsWPF.exe
+C:\Users\ishmyles\Documents\ICT50715 (Diploma)\Programming Cluster\Submittables\Week 12\AsyncTask-Week12\PrimeNumsWPF\bin\Debug\PrimeNumsWPF.pdb
+C:\Users\ishmyles\Documents\ICT50715 (Diploma)\Programming Cluster\Submittables\Week 12\AsyncTask-Week12\PrimeNumsWPF\bin\Debug\AsyncClassLibrary.dll
+C:\Users\ishmyles\Documents\ICT50715 (Diploma)\Programming Cluster\Submittables\Week 12\AsyncTask-Week12\PrimeNumsWPF\bin\Debug\AsyncClassLibrary.pdb
+C:\Users\ishmyles\Documents\ICT50715 (Diploma)\Programming Cluster\Submittables\Week 12\AsyncTask-Week12\PrimeNumsWPF\obj\Debug\PrimeNumsWPF.csprojAssemblyReference.cache
+C:\Users\ishmyles\Documents\ICT50715 (Diploma)\Programming Cluster\Submittables\Week 12\AsyncTask-Week12\PrimeNumsWPF\obj\Debug\MainWindow.g.cs
+C:\Users\ishmyles\Documents\ICT50715 (Diploma)\Programming Cluster\Submittables\Week 12\AsyncTask-Week12\PrimeNumsWPF\obj\Debug\App.g.cs
+C:\Users\ishmyles\Documents\ICT50715 (Diploma)\Programming Cluster\Submittables\Week 12\AsyncTask-Week12\PrimeNumsWPF\obj\Debug\PrimeNumsWPF_MarkupCompile.cache
+C:\Users\ishmyles\Documents\ICT50715 (Diploma)\Programming Cluster\Submittables\Week 12\AsyncTask-Week12\PrimeNumsWPF\obj\Debug\PrimeNumsWPF_MarkupCompile.lref
+C:\Users\ishmyles\Documents\ICT50715 (Diploma)\Programming Cluster\Submittables\Week 12\AsyncTask-Week12\PrimeNumsWPF\obj\Debug\MainWindow.baml
+C:\Users\ishmyles\Documents\ICT50715 (Diploma)\Programming Cluster\Submittables\Week 12\AsyncTask-Week12\PrimeNumsWPF\obj\Debug\PrimeNumsWPF.g.resources
+C:\Users\ishmyles\Documents\ICT50715 (Diploma)\Programming Cluster\Submittables\Week 12\AsyncTask-Week12\PrimeNumsWPF\obj\Debug\PrimeNumsWPF.Properties.Resources.resources
+C:\Users\ishmyles\Documents\ICT50715 (Diploma)\Programming Cluster\Submittables\Week 12\AsyncTask-Week12\PrimeNumsWPF\obj\Debug\PrimeNumsWPF.csproj.GenerateResource.cache
+C:\Users\ishmyles\Documents\ICT50715 (Diploma)\Programming Cluster\Submittables\Week 12\AsyncTask-Week12\PrimeNumsWPF\obj\Debug\PrimeNumsWPF.csproj.CoreCompileInputs.cache
+C:\Users\ishmyles\Documents\ICT50715 (Diploma)\Programming Cluster\Submittables\Week 12\AsyncTask-Week12\PrimeNumsWPF\obj\Debug\PrimeNumsWPF.csproj.CopyComplete
+C:\Users\ishmyles\Documents\ICT50715 (Diploma)\Programming Cluster\Submittables\Week 12\AsyncTask-Week12\PrimeNumsWPF\obj\Debug\PrimeNumsWPF.exe
+C:\Users\ishmyles\Documents\ICT50715 (Diploma)\Programming Cluster\Submittables\Week 12\AsyncTask-Week12\PrimeNumsWPF\obj\Debug\PrimeNumsWPF.pdb
